@@ -1,0 +1,52 @@
+.tablestyle {
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    background-color: white;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+.pdiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(16, 46, 109);
+    padding: 20px;
+    text-align: center;
+}
+
+.h11 {
+    text-decoration: none;
+    margin: 5px;
+}
+
+.nav {
+    border-radius: 20px;
+    width: 9%;
+    text-decoration: none;
+    /* color: white; */
+}
+
+.topic {
+    width: 85%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.stu {
+    display: inline-block;
+}
+
+button {
+    padding: 5px;
+    height: 40px;
+    width: 15%;
+    border-radius: 20px;
+    margin: 20px 0px 0px 0px;
+}
